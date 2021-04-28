@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+	margin: auto;
+	padding: auto;
+}
+
+body{
+	background-color: 
+}
+
+.cverde{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: center;
+	height: 10rem;
+}
+
+
+.cajaroja{
+	background-color: 
+	width: 100%;
+	height: 100%;
+
+}
+
+.cajanaranja{
+	background-color: 	
+	width: 100%;
+	height: 100%;
+}
+
+.cajavioleta{
+	background-color: 
+	width: 100%;
+	height: 100%;
+}
+
+.cajaverdeosc{
+	background-color: 
+	width: 100%;
+	height: 100%;
+}
+
+.margen{
+	padding: 3rem;
+}
+
+img{
+	height: 100%;
+	width: 100%;
+}
+
